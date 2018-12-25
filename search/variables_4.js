@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['pin_5fd0',['pin_d0',['../structdma__config__t.html#a231d4199be7cbd7653b525680ac51cf5',1,'dma_config_t::pin_d0()'],['../structcamera__config__t.html#aa7fcc08f51ca08c849d3d7cfc54cbc12',1,'camera_config_t::pin_d0()']]],
+  ['pin_5fd1',['pin_d1',['../structdma__config__t.html#a9a87cec5fc0bd56e50136a1d334fc833',1,'dma_config_t::pin_d1()'],['../structcamera__config__t.html#a3bde2c6474cab22a14d1b6ef3f103d9c',1,'camera_config_t::pin_d1()']]],
+  ['pin_5fd2',['pin_d2',['../structdma__config__t.html#a6fc0f3d947cc5f78cdbd98074a7c9af9',1,'dma_config_t::pin_d2()'],['../structcamera__config__t.html#a43d5891aa4f0356a4b311cd5ecb1cfc6',1,'camera_config_t::pin_d2()']]],
+  ['pin_5fd3',['pin_d3',['../structdma__config__t.html#a73f9b251874f208c3048d05cb3f2459d',1,'dma_config_t::pin_d3()'],['../structcamera__config__t.html#a4bda847f01d013e1c9d213b967ba506f',1,'camera_config_t::pin_d3()']]],
+  ['pin_5fd4',['pin_d4',['../structdma__config__t.html#a5b8fad07874f0c3fe583671777261069',1,'dma_config_t::pin_d4()'],['../structcamera__config__t.html#a540b14d31f869b98b7e01ee8743e2ffd',1,'camera_config_t::pin_d4()']]],
+  ['pin_5fd5',['pin_d5',['../structdma__config__t.html#ad363a0b1873740aba2b550819da7afd1',1,'dma_config_t::pin_d5()'],['../structcamera__config__t.html#a3229380194c2b360713d7240886ae9ed',1,'camera_config_t::pin_d5()']]],
+  ['pin_5fd6',['pin_d6',['../structdma__config__t.html#accbcd22f5f6965a5729b9ad0e7f1b81f',1,'dma_config_t::pin_d6()'],['../structcamera__config__t.html#a5a222371493270fb4b4bcf68bc417100',1,'camera_config_t::pin_d6()']]],
+  ['pin_5fd7',['pin_d7',['../structdma__config__t.html#a23f0ed2ce04b7048624df13729340da0',1,'dma_config_t::pin_d7()'],['../structcamera__config__t.html#a0b265296822d4612b67b6a1ffad9e756',1,'camera_config_t::pin_d7()']]],
+  ['pin_5fhref',['pin_href',['../structdma__config__t.html#a840d4f12fe2e5fd8d4a1fec9e1fde84f',1,'dma_config_t::pin_href()'],['../structcamera__config__t.html#ab9dd487279954adb8421992423e46cc7',1,'camera_config_t::pin_href()']]],
+  ['pin_5fnot_5fset',['PIN_NOT_SET',['../classSPI.html#acebfbe004601caf512d1b5b84b1a0967',1,'SPI']]],
+  ['pin_5fpclk',['pin_pclk',['../structdma__config__t.html#aa10372c169b65af008b2e7dff4a17d79',1,'dma_config_t::pin_pclk()'],['../structcamera__config__t.html#a64f2ef831ff4645f82f69ba16542764a',1,'camera_config_t::pin_pclk()']]],
+  ['pin_5freset',['pin_reset',['../structdma__config__t.html#acc8e1e52e09040835716e630b1680d0b',1,'dma_config_t::pin_reset()'],['../structcamera__config__t.html#a9935ac510209beb325061fd0ed30823d',1,'camera_config_t::pin_reset()']]],
+  ['pin_5fsscb_5fscl',['pin_sscb_scl',['../structdma__config__t.html#a433be12077ef21ef5591f767ea2c4d82',1,'dma_config_t::pin_sscb_scl()'],['../structcamera__config__t.html#a4c3e62089d1ba10dc5489dbc82f4047a',1,'camera_config_t::pin_sscb_scl()']]],
+  ['pin_5fsscb_5fsda',['pin_sscb_sda',['../structdma__config__t.html#ad51c4f0e2dc10e5e743af5084924501d',1,'dma_config_t::pin_sscb_sda()'],['../structcamera__config__t.html#a1d7e6feea488721346d23bf6ebb87449',1,'camera_config_t::pin_sscb_sda()']]],
+  ['pin_5fvsync',['pin_vsync',['../structdma__config__t.html#a8749b7acc84c18ea799613f490f1041d',1,'dma_config_t::pin_vsync()'],['../structcamera__config__t.html#a3c3b0d95798353d4917d93a68e56a2c2',1,'camera_config_t::pin_vsync()']]],
+  ['pin_5fxclk',['pin_xclk',['../structdma__config__t.html#a52c04d1b9363dcf03510cf494c1f9490',1,'dma_config_t::pin_xclk()'],['../structcamera__config__t.html#adae554b70623090ed02ab03d5385d884',1,'camera_config_t::pin_xclk()']]]
+];
